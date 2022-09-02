@@ -1,6 +1,11 @@
+hello Chaitali here
 Hello there!
-<<<<<<< HEAD
-This is Anuj
-=======
+
+This is Anuj joshi
+
 This is Saurabh.
 
+soham
+
+THIS IS JYOTI HERE
+Hello Deepak Is Here!
