@@ -1,12 +1,16 @@
-
 hello Chaitali here
 Hello there!
 
+<<<<<<< HEAD
 This is Shivling
 
+=======
+This is Anuj joshi
+
+This is Saurabh.
+>>>>>>> f492bb06dfda1d19ef35f96f60c3ae5452eceed8
 
 soham
-
 
 THIS IS JYOTI HERE
 Hello Deepak Is Here!
